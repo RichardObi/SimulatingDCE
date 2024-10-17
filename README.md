@@ -69,4 +69,4 @@ Please consider citing our work if you found it useful:
 ```
 
 ## Acknowledgements
-This repository borrows code from the [pre-post-synthesis](https://github.com/RichardObi/pre_post_synthesis) [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) and the [nnUNet](https://github.com/MIC-DKFZ/nnUNet) repositories. The 254 tumour segmentation masks used in this study were provided by [Caballo et al](https://doi.org/10.1002/jmri.28273).
+This repository borrows code from the [pre-post-synthesis](https://github.com/RichardObi/pre_post_synthesis), the [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) and the [nnUNet](https://github.com/MIC-DKFZ/nnUNet) repositories. The 254 tumour segmentation masks used in this study were provided by [Caballo et al](https://doi.org/10.1002/jmri.28273).
