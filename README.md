@@ -14,7 +14,7 @@ Official repository of "Simulating Dynamic Tumor Contrast Enhancement in Breast 
 - [Script](synthesis/pix2pixHD/scripts/train_512p_duke_2D_concat.sh) to run a training of the version of the synthesis model that jointly generates images for corresponding DCE-MRI sequences 1, 2 and 3.
 - [Script](synthesis/pix2pixHD/scripts/test_512p_duke_2D_concat.sh) to run a test (inference) of the trained synthesis model that will then jointly generates images for corresponding DCE-MRI sequences 1, 2 and 3 for the test set.
 - [Script](synthesis/utils/fid_breast_mri_only_test_GAN_baseline.sh) Compute per DCE-MRI sequence (e.g. 1, 2 and 3) the imagenet and radimagenet-based Frèchet Inception Distances (FIDs) for the GAN generated data.
-- [Script](synthesis/utils/metrics_breast_mri_only_test_GAN_baseline.sh) Compute per DCE-MRI sequence (e.g. 1, 2 and 3) the imagenet and radimagenet-based Frèchet Inception Distances (FIDs) for the GAN generated data.
+- [Script](synthesis/utils/metrics_breast_mri_only_test_GAN_baseline.sh) Compute per DCE-MRI sequence (e.g. 1, 2 and 3) the image-to-image comparison metrics, such as LPIPS, PSNR, SSIM, MS-SSIM, MSE, and MAE, for the GAN generated data.
 - [Notebook](synthesis/utils/contrast_enhancement_patterns.ipynb) to compute and visualize contrast enhancement kinetic patterns for corresponding multi-sequence DCE-MRI data.
 
 #### Single-Sequence Synthesis
