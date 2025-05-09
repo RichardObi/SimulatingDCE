@@ -1,0 +1,9 @@
+Image Name,Mean Intensity,Standard Deviation
+Breast_MRI_745_0000_slice83.png,7.64,13.06
+Breast_MRI_745_CONCAT_0002_slice83.png,12.22,22.19
+Breast_MRI_745_CONCAT_0003_slice83.png,12.59,22.93
+Breast_MRI_745_0000_0002_slice83_syn.jpg,10.96,20.45
+Breast_MRI_745_0000_0001_slice83_syn.jpg,9.66,18.21
+Breast_MRI_745_CONCAT_0001_slice83.png,10.78,19.64
+Breast_MRI_745_0000_0003_slice83_syn.jpg,11.47,21.79
+plot.png,250.44,27.69
